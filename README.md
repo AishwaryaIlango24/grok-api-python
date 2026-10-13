@@ -1,5 +1,7 @@
 # grok-api-python
 
+**Project URL:** https://roadmap.sh/projects/openai-api-python
+
 A small Python app that sends prompts to the [Grok API](https://docs.x.ai/) (xAI) and prints the responses, plus a script for experimenting with system prompts, temperature, and token limits.
 
 ## Features
